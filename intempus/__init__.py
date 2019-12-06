@@ -41,7 +41,7 @@ class Resource(object):
 
 
 if __name__ == '__main__':
-    # Example put in username and api_key
+    # Example - put in username and api_key
     username = 'some_username'
     api_key = 'some_api_key'
 
